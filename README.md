@@ -56,9 +56,7 @@ The full academic paper is available in final_paper.tex, including:
 - Contributions
 
 ## Author
-Author
-
-- Devlin Bridges
+Devlin Bridges
 
 University of Virginia – School of Data Science
 Email: cbv6gd@virginia.edu

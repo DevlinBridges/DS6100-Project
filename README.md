@@ -1,5 +1,3 @@
-https://drive.google.com/drive/folders/1iR8G5DNYTqL-EKp-sLve89Y1xEkXbjPz?usp=sharing
-
 # Predicting NBA Games Using Deep Learning
 
 This project explores the use of deep learning models to predict NBA game outcomes using only pre-game team-level statistics. We evaluate logistic regression, random forest, stacking, XGBoost, a feedforward neural network, and a Transformer, comparing them across accuracy, precision, recall, F1-score, and AUC.
@@ -60,7 +58,7 @@ The full academic paper is available in final_paper.tex, including:
 ## Author
 Author
 
--Devlin Bridges
+- Devlin Bridges
 
 University of Virginia – School of Data Science
 Email: cbv6gd@virginia.edu
